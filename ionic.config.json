@@ -1,0 +1,7 @@
+{
+  "name": "ionic-login-guards",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
